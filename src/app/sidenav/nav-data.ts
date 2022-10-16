@@ -1,4 +1,4 @@
-git add README.mdimport { INavbarData } from "./helper";
+import { INavbarData } from "./helper";
 
 export const navbarData: INavbarData[] = [
     {
